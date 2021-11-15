@@ -1,0 +1,12 @@
+C:\Users\furka\source\repos\CreateQRCode\CreateQRCode\bin\Debug\CreateQRCode.exe.config
+C:\Users\furka\source\repos\CreateQRCode\CreateQRCode\bin\Debug\CreateQRCode.exe
+C:\Users\furka\source\repos\CreateQRCode\CreateQRCode\bin\Debug\CreateQRCode.pdb
+C:\Users\furka\source\repos\CreateQRCode\CreateQRCode\obj\Debug\CreateQRCode.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\CreateQRCode\CreateQRCode\obj\Debug\CreateQRCode.Form1.resources
+C:\Users\furka\source\repos\CreateQRCode\CreateQRCode\obj\Debug\CreateQRCode.Properties.Resources.resources
+C:\Users\furka\source\repos\CreateQRCode\CreateQRCode\obj\Debug\CreateQRCode.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\CreateQRCode\CreateQRCode\obj\Debug\CreateQRCode.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\CreateQRCode\CreateQRCode\obj\Debug\CreateQRCode.exe
+C:\Users\furka\source\repos\CreateQRCode\CreateQRCode\obj\Debug\CreateQRCode.pdb
+C:\Users\furka\source\repos\CreateQRCode\CreateQRCode\bin\Debug\QRCoder.dll
+C:\Users\furka\source\repos\CreateQRCode\CreateQRCode\obj\Debug\CreateQRCode.csproj.CopyComplete
