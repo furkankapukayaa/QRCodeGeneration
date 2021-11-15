@@ -1,5 +1,5 @@
-# QRCodeGeneration
-It is a qr code creation and saving program.
+# QR Code Generation
+
+**It is a qr code creation and saving program. [Click for installation.]()** <br>
+
 <img src="QRCode.gif">
-QR CODE OUTPUT
-<img src="QRCode.jpg" width=100px>
